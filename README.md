@@ -3,7 +3,7 @@
 This repository contains my solutions for the analysis of two pcap files.
 
 ## File 1
-**Credentials: ** Username - "test", Password - "test"
+**Credentials:** Username - "test", Password - "test"
 
 The screenshot of the wireshark analysis is given below.
 <img width="1920" height="1020" alt="Screenshot 2025-08-10 110324" src="https://github.com/user-attachments/assets/763ae979-e5a5-4253-b79f-2bc3dfd9fde2" />
